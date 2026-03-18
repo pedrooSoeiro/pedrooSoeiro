@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=360D8B&height=180&section=header&text=Pedro+Antônio+Soeiro&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10BCF7&height=180&section=header&text=Pedro+Antônio+Soeiro&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 <p align="center">
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -49,4 +49,4 @@ When I'm not debugging or managing databases, you can find me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=360D8B&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10BCF7&height=150&section=footer"/>
