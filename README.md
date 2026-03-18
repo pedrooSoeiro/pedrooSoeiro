@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Database+Administrator;Future+Systems+Developer;Sustainable+Tech+Advocate;Football+%26+Fitness+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Database+Administrator;Future+Systems+Developer;Football+%26+Fitness+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 🎓 Education & Certifications
