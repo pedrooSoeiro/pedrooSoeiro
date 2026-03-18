@@ -1,7 +1,5 @@
-# <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/assets/handshake.gif" width="35px"> Hellooo!
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=Pedro%20Antônio%20Amaral%20Soeiro&fontSize=50&fontStyle=italic&desc=Tech%20Journey%20|%20Sustainability&descSize=20&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=I'm%20Pedro%20Antônio%20Amaral%20Soeiro&fontSize=50&fontStyle=italic&desc=Tech%20Journey%20|%20Sustainability&descSize=20&descAlignY=65" />
 </p>
 
 ### 🎓 Education & Certifications
