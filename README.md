@@ -1,12 +1,14 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Pedro+Antônio+Soeiro&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=I'm%20Pedro%20Antônio%20Amaral%20Soeiro&fontSize=50&fontStyle=italic&desc=Tech%20Journey%20|%20Sustainability&descSize=20&descAlignY=65" />
-</p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
   <img src="https://skillicons.dev/icons?i=windows,linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Database+Administrator;Future+Systems+Developer;Sustainable+Tech+Advocate;Football+%26+Fitness+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 🎓 Education & Certifications
@@ -46,3 +48,5 @@ When I'm not debugging or managing databases, you can find me:
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
