@@ -2,6 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=200&section=header&text=I'm%20Pedro%20Antônio%20Amaral%20Soeiro&fontSize=50&fontStyle=italic&desc=Tech%20Journey%20|%20Sustainability&descSize=20&descAlignY=65" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
+</p>
+
 ### 🎓 Education & Certifications
 - 🏫 **Student:** Dual-enrollment at **SESI/SENAI** & **ETECAP**.
 - 🗄️ **Database Administrator:** Certified by **SENAI Sumaré**.
@@ -9,7 +16,6 @@
 - 🌱 **Mission:** Leveraging technology to build a more **sustainable world**.
 
 ---
-<img src="https://skillicons.dev/icons?i=html,css,js" /> <img src="https://skillicons.dev/icons?i=windows,linux  " /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 
 ### 🛠️ Tech Stack & Tools
 
